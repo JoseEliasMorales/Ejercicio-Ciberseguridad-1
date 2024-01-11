@@ -16,13 +16,10 @@ De acuerdo a los ultimas revisiones de las normativas y politicas de seguridad, 
 Revisa si algun archivo fue alterado durante el ultimo ataque y de existir ¿cual seria?
 
 Mi respuesta. 
-Screenshot:![ejerciciocuberseguridaddiscord1](https://github.com/csvivanco/Ejercicio-Cyberseguridad-1/assets/126294465/7f82938a-949c-4f37-ba2a-2fa0e196aafa)
+Screenshot:![ejerciciocuberseguridaddiscord1](https://github.com/JoseEliasMorales/Ejercicio-Ciberseguridad-1/blob/main/Ejercicio1.png)
 
-Archivos alterados
-1. log.txt
+Archivo alterado
+log.txt
    original -->  0b29406e348cd5f17c2fd7b47b1012f9
    alterado -->  f2b0428b975452afbc641e46a042231b
-2. script.py
-   original -->  6bb9ec43660194bc066bd8b4d35b151
-   alterado -->  66bb9ec43660194bc066bd8b4d35b151
-# Ejercicio-Ciberseguridad-1
+
